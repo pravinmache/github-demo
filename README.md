@@ -1,5 +1,5 @@
 # Starter GIT Project
 ## Introduction
-### Puropose
-#### How to configure
+## Puropose
+## How to configure
 
